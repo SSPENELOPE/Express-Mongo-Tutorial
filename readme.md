@@ -5,6 +5,9 @@
 - You can watch the video of this being created on youtube here: 
 
 # Instructions
+- Ensure you have Node.js installed. This is a very simple task.
+- Ensure you have mongoDB installed and running as a service on your computer. This is also relatively simple.
+- So long as you have the two requirements above installed, you should be able to clone this repo and have a running backend server.
 - Once you clone this repository to your machine, you are going to want to run the `npm i` command at the root of the repository, this will install all the node packages you are going to need
 - To start the server you can type the `npm run watch command`
 
