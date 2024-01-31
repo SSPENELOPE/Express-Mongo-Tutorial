@@ -2,7 +2,7 @@
 
 # What is this
 - This is the starter code for a very basic mongoDB and express backend. As long as you have node and mongodb installed correctly on your machine, this repository should work
-- You can watch the video of this being created on youtube here: 
+- You can watch the video of this being created on youtube here: https://www.youtube.com/watch?v=L9tF6TM_Fiw
 
 # Instructions
 - Ensure you have Node.js installed. This is a very simple task.
